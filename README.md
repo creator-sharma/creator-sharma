@@ -55,7 +55,7 @@ I'm proficient in several technologies, including:
 
 ## My Trophies:
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Saurabh&column=7&theme=tokyonight&no-frame=true" style="display: block; margin: 0 auto;">
+<img src="https://github-profile-trophy.vercel.app/?username=creator-sharma&column=7&theme=tokyonight&no-frame=true" style="display: block; margin: 0 auto;">
 
 
 
