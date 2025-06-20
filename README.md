@@ -25,10 +25,10 @@ I'm Suraj Sharma, a passionate Python developer with a focus on computer vision 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=creator-sharma&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="400" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Saurabh&&theme=tokyonight" alt="GitHub Streak" width="425" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=creator-sharma&&theme=tokyonight" alt="GitHub Streak" width="425" />
     </td>
   </tr>
 </table>
